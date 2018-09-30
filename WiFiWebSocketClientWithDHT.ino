@@ -38,7 +38,7 @@ File myFile;
 
 char ssid[32] = "iSunGuest_2.4G"; // your network SSID
 char pass[63] = "isunguest";      // your network password (use for WPA, or use as key for WEP)
-int keyIndex = 0;                  // your network key Index number (needed only for WEP)
+int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 
 int status = WL_IDLE_STATUS;
 // if you don't want to use DNS (and reduce your sketch size)
