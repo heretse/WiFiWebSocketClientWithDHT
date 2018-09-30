@@ -87,7 +87,7 @@ int keyIndex = 0;                  // your network key Index number (needed only
 
 ...
 ```
-### Define an PIN when it is HIGH to force disconnect the WebSocket and Wifi connections.  
+### Define an PIN when it is HIGH to force disconnect the WebSocket and Wifi connections.  
 
 ```ino
 #define BUTTON_PIN  A0
